@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+celery
+redis
+pydantic
+sqlalchemy
+alembic
+asyncpg
+kafka-python
+pytest
+httpx
